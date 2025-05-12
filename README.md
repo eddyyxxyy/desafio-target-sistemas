@@ -13,7 +13,7 @@ Tentei ao máximo utilizar de diversas formas de resolução, focando no que acr
 - **Questao05**: Inversão de string via reposicionamento de caracteres.
 
 
-## 🚀 Como Executar
+## Como Executar
 
 Você pode abrir a solução (`.sln`) com o Visual Studio 2022, Rider, ou outras ferramentas e executar cada um dos projetos pela IDE/Editor ou utilizar a CLI do .NET:
 
@@ -25,3 +25,5 @@ dotnet run --project Questao03
 dotnet run --project Questao04
 dotnet run --project Questao05
 ```
+
+Foi usado .NET 9 nessa implementação.
