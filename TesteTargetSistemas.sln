@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Questao02", "Questao02\Ques
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Questao03", "Questao03\Questao03.csproj", "{607F06F9-7B27-4587-B1FC-A07A486BC3A9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Questao04", "Questao04\Questao04.csproj", "{AAD64ADF-D031-4AF2-88F1-9C3607059048}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -30,5 +32,9 @@ Global
 		{607F06F9-7B27-4587-B1FC-A07A486BC3A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{607F06F9-7B27-4587-B1FC-A07A486BC3A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{607F06F9-7B27-4587-B1FC-A07A486BC3A9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AAD64ADF-D031-4AF2-88F1-9C3607059048}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AAD64ADF-D031-4AF2-88F1-9C3607059048}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AAD64ADF-D031-4AF2-88F1-9C3607059048}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AAD64ADF-D031-4AF2-88F1-9C3607059048}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
